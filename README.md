@@ -1,9 +1,7 @@
 Get Started
 =====
 
-## 不喜欢原始的ui，拿来自己改，把图标全部换成fontawesome的图标，或者阿里的图标库，并对不常用功能删减，优化文件上传，剔除底层后台语言的配置功能，使用自定义上传地址来完成上传，使上传七牛等第三方库更方便
-
-> 鉴于目前 ISSUE 较多而维护时间较少，且在进行后续的版本更新，目前暂时关闭 ISSUE，若社区有人跟进，欢迎和我们联系。重复的问题，请参阅常见问题的 [FAQ Wiki](https://github.com/fex-team/ueditor/wiki/FAQ)。
+## 不喜欢原始的ui，打算拿来自己改，把图标全部换成fontawesome的图标，或者阿里的图标库，并对不常用功能删减，优化文件上传，剔除底层后台语言的配置功能，使用自定义上传地址来完成上传，使上传七牛等第三方库更方便
 
 ## ueditor富文本编辑器介绍
 
@@ -75,8 +73,6 @@ ue.ready(function(){
 });
 ```
 
-ueditor的更多API请看[API 文档](http://ueditor.baidu.com/doc "ueditor API 文档")
-
 ## 2 详细文档
 
 ueditor 官网：[http://ueditor.baidu.com](http://ueditor.baidu.com "ueditor 官网")
@@ -84,17 +80,3 @@ ueditor 官网：[http://ueditor.baidu.com](http://ueditor.baidu.com "ueditor �
 ueditor API 文档：[http://ueditor.baidu.com/doc](http://ueditor.baidu.com/doc "ueditor API 文档")
 
 ueditor github 地址：[http://github.com/fex-team/ueditor](http://github.com/fex-team/ueditor "ueditor github 地址")
-
-ueditor 第三方插件贡献 wiki : [第三方插件贡献规范](http://ueditor.baidu.com/website/thirdproject.html)
-
-ueditor 贡献代码规范（javascript）： [javascript规范](https://github.com/fex-team/styleguide/blob/master/javascript.md)
-
-## 3 第三方贡献
-
-ueditor for nodejs 参考[https://github.com/netpi/ueditor](https://github.com/netpi/ueditor)
-
-## 4 联系我们
-
-email：[ueditor@baidu.com](mailto://email:ueditor@baidu.com "发邮件给ueditor开发组")
-
-issue：[github issue](http://github.com/fex-team/ueditor/issues "ueditor 论坛")
